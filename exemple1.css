@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    padding: 0px;               
+
+}
+
+.wrapper{
+    margin: 10px;
+    border: 1px solid black;
+    height: 400px;
+    
+}
+.box{
+    border: 5px solid gold;
+    height: 150px;/*faut donner une auteur et largeur sinon la box prend toute la longueur de la page sans hauteur*/
+    width: 200px;/**/
+}

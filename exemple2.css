@@ -1,0 +1,28 @@
+body{
+    margin: 0px;
+    padding: 0px;               
+
+}
+
+.wrapper{
+    margin: 10px;
+    border: 1px solid black;
+    height: 400px;
+    
+}
+
+.box0{
+    border: 5px solid gold;
+}
+
+.box2{
+    border: 5px solid burlywood;
+    width: 50%;
+}
+
+
+
+.box1{
+    border: 5px solid silver;
+    width: 75%;
+}

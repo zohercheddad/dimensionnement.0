@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    padding: 0px;               
+
+}
+
+.wrapper{
+    margin: 10px;
+    border: 1px solid black;
+    height: 400px;
+    
+}
+.box{
+    width: 200px;
+    border: 1px solid gold;
+}
+
+.minibox{
+    width: 50px;
+    border: 1px solid gold;
+}
+
+.width{
+    width: 100%;
+    
+}
+
+.max{
+    max-width: 100%;
+}
